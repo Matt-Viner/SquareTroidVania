@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Godot\\SquareTroidVania\\Square Troid Vania.csproj": {}
+  },
+  "projects": {
+    "D:\\Godot\\SquareTroidVania\\Square Troid Vania.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Godot\\SquareTroidVania\\Square Troid Vania.csproj",
+        "projectName": "Square Troid Vania",
+        "projectPath": "D:\\Godot\\SquareTroidVania\\Square Troid Vania.csproj",
+        "packagesPath": "C:\\Users\\Matth\\.nuget\\packages\\",
+        "outputPath": "D:\\Godot\\SquareTroidVania\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matth\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
