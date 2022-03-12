@@ -1,0 +1,17 @@
+# Ignore Godot specifics
+
+.import/
+.mono/
+*.tres
+*.res
+icon.png
+icon.png.import
+project.godot
+
+# Ignore Asset and Scene files
+Assets/
+Scenes/
+
+# Build files
+*.csproj
+*.sln

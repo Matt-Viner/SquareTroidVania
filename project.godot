@@ -11,7 +11,6 @@ config_version=4
 [application]
 
 config/name="Square Troid Vania"
-run/main_scene="res://Scenes/Game/Game.tscn"
 config/icon="res://icon.png"
 
 [physics]
